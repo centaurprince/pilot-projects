@@ -1,3 +1,3 @@
 # pilot-projects
 <br>
-This is some basic projects of C++.
+This is basic projects of C++.
